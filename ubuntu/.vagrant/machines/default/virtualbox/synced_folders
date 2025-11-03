@@ -1,0 +1,1 @@
+{"virtualbox":{"/opt/scripts":{"guestpath":"/opt/scripts","hostpath":"/home/max/repo/vagrant/ubuntu/scripts","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/max/repo/vagrant/ubuntu","disabled":false,"__vagrantfile":true}}}
